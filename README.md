@@ -7,6 +7,8 @@ The API created should contain endpoints to:
 - Start tracking some channel chat
 - Fetch the chat mood
   - How you define "mood" is up to you, maybe its a "kappa-per-minute", or a "Hype meter" - feel free to use your imagination. It should however be something fun or useful for the end consumer.
+  
+When finished the test, please send the repository link to einar@strafe.com.
 
 ## Points to be considered
 - **Application modular structure** - Since the objective of the test is see how the applicant writes code and modularize it, we recommend not using a full sacked convention driven Framework like Django. We suggest using [Flask](http://flask.pocoo.org/).
